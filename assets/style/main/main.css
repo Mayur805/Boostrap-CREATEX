@@ -1,0 +1,150 @@
+.top h1 {
+    font-size: 3.5rem;
+    font-weight: 750;
+}
+
+.top h2 {
+    font-size: 14px;
+}
+
+.top .display-4 {
+    font-size: 3.5rem;
+    font-weight: 750;
+}
+
+.top display-3 {
+    line-height: 1.2;
+}
+
+.welcome h2 {
+    font-weight: 900;
+}
+
+.bg-2 {
+    background-image: url(assets\img\bg-shape.png);
+    object-fit: cover;
+    object-position: 50% 50%;
+    max-width: none;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1315px;
+    height: 699.062px;
+    overflow: hidden;
+    pointer-events: none;
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+    will-change: transform, opacity;
+    margin-top: 0px;
+    transform: scale(1) translate3d(0px, 0px, 0px);
+    opacity: 1;
+}
+
+.welcome .text-1 p {
+    font-size: 18px;
+}
+
+.welcome h3 {
+    font-weight: 700;
+    margin-left: 44px;
+}
+
+.welcome p {
+    font-size: 16px;
+    padding-bottom: .5rem !important;
+    margin-left: 12mm;
+}
+
+.welcome .demo-btn .btn-outline-primary {
+    width: 110px;
+    margin-left: 12mm;
+}
+
+.card h6 {
+    color: black;
+}
+
+.card h3 {
+    margin-top: 7.5rem;
+    margin-bottom: 1.2rem;
+    font-weight: 900;
+    font-size: 32px;
+}
+
+.card p {
+    font-size: 16px;
+}
+
+.card .card-btn .btn {
+    letter-spacing: .03125rem;
+    font-size: 13px;
+    color: white;
+    font-weight: 700;
+    padding: 8px 33px;
+}
+
+.card .card-btn {
+    padding-top: 37px;
+}
+
+.card .card-btn2 .btn {
+    letter-spacing: .03125rem;
+    font-size: 13px;
+    color: white;
+    font-weight: 700;
+    padding: 8px 33px;
+}
+
+.card .divider-vertical::before {
+    display: block;
+    width: .0625rem;
+    height: 100%;
+    background: linear-gradient( 180deg, rgba(218, 219, 221, 0) 0%, rgba(218, 219, 221, 0.5) 10%, #dadbdd 45%, #dadbdd 55%, rgba(218, 219, 221, 0.5) 90%, rgba(218, 219, 221, 0) 100%);
+    content: "";
+}
+
+.card .divider-vertical {
+    width: 0;
+}
+
+.mobile h2 {
+    font-weight: 700;
+    font-size: 46px;
+}
+
+.mobile h3 {
+    font-size: 16px;
+}
+
+.qr-code p {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.mobile-friend {
+    margin-left: 68px;
+    margin-top: 90px;
+}
+
+.highlight p {
+    font-size: 14px;
+}
+
+.footer-2 h3 {
+    color: white;
+}
+
+.e-mail .form-control {
+    width: 490px;
+    height: 49px;
+    background: gray;
+}
+
+.footer-2 p {
+    color: white;
+    font-size: 12px;
+}
+
+.footer-2 i {
+    color: #007bff;
+}
